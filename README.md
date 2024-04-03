@@ -1,5 +1,5 @@
 # xiaoya-convert
-可以自动将阿里云盘分享链接转换为小雅中alishare_list.txt的格式。
+可以自动批量将阿里云盘分享链接转换为小雅中alishare_list.txt的格式。
 
 下载代码文件，将阿里云盘分享链接按照
 
